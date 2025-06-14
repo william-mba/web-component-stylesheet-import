@@ -13,7 +13,7 @@ Declared
 </body>
 ```
 Rendered
-> Notice out there is no <code>style</code> element here.
+> Notice how there is no <code>style</code> element here.
 
 ![Rendered elements](image.png)
 
