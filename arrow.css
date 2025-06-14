@@ -1,0 +1,16 @@
+:host {
+  --spacing: 0.25rem;
+  --spacing-6: calc(var(--spacing) * 6);
+  --zinc-900: oklch(0.21 0.006 285.885);
+  border: 0.15em solid var(--zinc-900);
+  border-radius: calc(infinity * 1rem);
+  display: inline-flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+svg {
+  padding-inline: calc(var(--spacing) + 0.5rem);
+  height: var(--spacing-6);
+  width: var(--spacing-6);
+}

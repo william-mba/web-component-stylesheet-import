@@ -1,0 +1,9 @@
+:host {
+  background-color: oklch(from blue 0.4 0.6 h);
+  border-radius: 0.25rem;
+  border: none;
+}
+
+svg {
+  color: white;
+}

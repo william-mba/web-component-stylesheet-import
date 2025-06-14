@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: black;
+  background-color: white;
+  padding: 1rem;
+  border: 1px solid oklch(from black 0.8 c h);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
