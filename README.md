@@ -16,5 +16,6 @@ Rendered
 > Notice how there is no <code>style</code> element here.
 
 ![Rendered elements](image.png)
+![Rendered result](image-1.png)
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/william-mba/web-component-stylesheet-import)
