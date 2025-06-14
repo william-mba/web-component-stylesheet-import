@@ -1,4 +1,4 @@
-import { getCSS } from './utils.js';
+import { getCSS } from './getCSS.js';
 
 customElements.define(
   'arrow-right',
